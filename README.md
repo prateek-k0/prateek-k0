@@ -23,7 +23,7 @@ Check out my pinned repositories to see my work!
 ## Contact ☎️
 Feel free to reach out to me through the following means:
 
-![https://www.linkedin.com/in/prateek-k0](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![mailto:parx1601@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][https://www.linkedin.com/in/prateek-k0] [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parx1601@gmail.com)
 
 
 
