@@ -1,4 +1,4 @@
-### [Available for hire]
+### [Available for hire 💼]
 
 ### Hello there!
 
