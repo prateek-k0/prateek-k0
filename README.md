@@ -2,7 +2,7 @@
 
 ### Hello there!
 
-I'm Prateek, a frontend developer with over 3.5 years of experience. Having a thorough knowledge of **React.js, Next.js (v13+ only), Redux Toolkit, Tailwind CSS, and D3.js**, all with a **strong grasp of JavaScript and TypeScript**, I aim to create functionally beautiful user interfaces that are guaranteed to impress.
+I'm Prateek, a frontend developer with over 3.5 years of experience. Having a thorough knowledge of **React.js, Next.js (v13+ only), Redux Toolkit, Tailwind CSS, and D3.js**, all with a strong grasp of **JavaScript and TypeScript**, I aim to create functionally beautiful user interfaces that are guaranteed to impress.
 
 Check out my pinned repositories to see my work!
 
