@@ -6,7 +6,9 @@ I'm Prateek, a frontend developer with over 3.5 years of experience. Having a th
 
 Check out my pinned repositories to see my work!
 
+<!--
 ![](https://komarev.com/ghpvc/?username=prateek-k0&color=blueviolet&style=flat-square)
+-->
 
 ## Tech stack 🚀
 **Experienced in:**
